@@ -29,4 +29,5 @@ myFunction2 <- function() {
 # mtrace(myFunction)
 # myFunction(5)
 
-
+# myrdfile = "RDocumentationFile.Rd"
+# prompt(myFunction,myrdfile)
