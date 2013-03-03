@@ -5,7 +5,7 @@
 
 # some(more) test code...
 myFunction <- function(x) {
-
+	
 	a <- 2
 	b <- 3
 	
@@ -23,12 +23,8 @@ myFunction2 <- function() {
 	
 }
 
-# library(debug)
+### library(debug) 
 # setwd("M:\\YDrive\\All_Economics\\eclipse_workspace\\rgmswtchExpR")
 # source("M:/YDrive/All_Economics/eclipse_workspace/rgmswtchExpR/trabahar.r")
 # mtrace(myFunction)
 # myFunction(5)
-
-# myrdfile = "RDocumentationFile.Rd"
-# prompt(myFunction,myrdfile)
-
